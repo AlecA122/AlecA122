@@ -1,7 +1,7 @@
-## Hi, I’m Hayden Izair  
+## Hi, I’m 	Alec A 
 **ServiceNow Developer | ITSM & ITOM Specialist | Automation Enthusiast**
 
-📧 Email: hayden.izair.servicenow@gmail.com
+📧 Email: aleca8702@gmail.com
 
 ---
 
@@ -44,5 +44,5 @@
 
 ## 📫 Contact
 
-📩 **Email:** hayden.izair.servicenow@gmail.com  
+📩 **Email:** aleca8702@gmail.com
 Let’s build powerful and user-centric ServiceNow solutions together!
